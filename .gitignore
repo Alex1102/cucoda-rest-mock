@@ -1,0 +1,11 @@
+target/
+.idea/
+.settings/
+/.links/
+
+*.iml
+.classpath
+.project
+.sts4-cache
+
+.attach_pid*
